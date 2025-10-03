@@ -1,1 +1,25 @@
- 
+# Core Libraries
+opencv-python==4.9.0.80
+mediapipe==0.10.14
+numpy>=1.26.0
+scikit-learn>=1.4.0
+
+# Deep Learning (choose one or both depending on your RL agent)
+torch>=2.2.0
+torchvision>=0.17.0
+torchaudio>=2.2.0
+tensorflow>=2.15.0
+
+# Explainable AI
+shap>=0.45.0
+
+# GUI Frameworks
+pyqt6>=6.6.0
+customtkinter>=5.2.1
+
+# Packaging
+pyinstaller>=6.3.0
+
+# Utilities
+matplotlib>=3.8.0
+pandas>=2.2.0
